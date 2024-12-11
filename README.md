@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack fo
 
 ## About Me
 
-- 📚 Education: Completed a Flutter course at Red and White multimedia education
+- 📚 Education: Completed a Flutter Development Course At Red And White Multimedia Education
 - 💻 Expertise:
  
        - State Management
