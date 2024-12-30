@@ -4,9 +4,12 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack fo
 
 ## About Me
 
-- 📚 Education: Completed a Flutter Development Course At Red And White Multimedia Education
+- 📚 Education: Completed a Flutter Development Course At Red and White Multimedia Education
 - 💻 Expertise:
+
  
+     
+       - Firebase Authentication
        - State Management
        - API Integration
        - Firebase Cloud Messaging (FCM)
