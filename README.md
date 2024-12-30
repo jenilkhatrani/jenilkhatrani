@@ -1,6 +1,6 @@
 ## Hi there 👋 I'Jenil
 
-Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack for building smooth, user-friendly, and efficient mobile applications.
+Welcome to my GitHub profile! I'm a passionate Flutter Developer. Passionate Flutter developer and BCA student at Swarnim Startup and Innovation University. Crafting innovative and user-friendly mobile apps with a focus on design and functionality."
 
 ## About Me
 
@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack fo
  
      
        - Firebase Authentication
-       - State Management
        - API Integration
+       - State Management
        - Firebase Cloud Messaging (FCM)
        - App Animations
 - 🌱 Continuous Learner: I love diving into new technologies and frameworks to enhance my skillset.
