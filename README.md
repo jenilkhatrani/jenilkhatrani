@@ -1,4 +1,4 @@
-## Hi there 👋 I'Jenil
+## Hi there 👋 I'Jenil Khatrani
 
 Welcome to my GitHub profile! I'm a passionate Flutter Developer. Passionate Flutter developer and BCA student at Swarnim Startup and Innovation University. Crafting innovative and user-friendly mobile apps with a focus on design and functionality."
 
